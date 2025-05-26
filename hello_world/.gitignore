@@ -1,2 +1,15 @@
 /target/
 **/*.rs.bk
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store    # macOS
+
+.env
+config.local.toml
+
+*.log
+debug/
